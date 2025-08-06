@@ -8,5 +8,6 @@ namespace MauiAppFit.ViewsModels
 {
     internal class ListaAtividadesViewModel
     {
+
     }
 }
